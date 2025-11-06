@@ -15,11 +15,16 @@ class Solution {
             return head;
         }
 
-        ListNode newlist= reverseList(head.next);
+        ListNode prev=null;
+        ListNode curr=head;
 
-        head.next.next=head;
-        head.next=null;
+        while (curr!=null){
+            ListNode next=curr.next;
+            curr.next=prev;
+            prev=curr;
+            curr=next;
+        }
 
-        return newlist;
+        return prev;
     }
 }
