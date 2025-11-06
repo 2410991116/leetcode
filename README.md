@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/2410991116/leetcode/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/2410991116/leetcode/tree/master/0206-reverse-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/2410991116/leetcode/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/2410991116/leetcode/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
