@@ -27,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/2410991116/leetcode/tree/master/0005-longest-palindromic-substring) |
+## Array
+|  |
+| ------- |
+| [0041-first-missing-positive](https://github.com/2410991116/leetcode/tree/master/0041-first-missing-positive) |
+## Hash Table
+|  |
+| ------- |
+| [0041-first-missing-positive](https://github.com/2410991116/leetcode/tree/master/0041-first-missing-positive) |
 <!---LeetCode Topics End-->
