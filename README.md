@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/2410991116/leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/2410991116/leetcode/tree/master/0014-longest-common-prefix) |
 | [0041-first-missing-positive](https://github.com/2410991116/leetcode/tree/master/0041-first-missing-positive) |
+| [0169-majority-element](https://github.com/2410991116/leetcode/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/2410991116/leetcode/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/2410991116/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/2410991116/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/2410991116/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/2410991116/leetcode/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
@@ -90,5 +92,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/2410991116/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/2410991116/leetcode/tree/master/0242-valid-anagram) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/2410991116/leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/2410991116/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
