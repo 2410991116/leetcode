@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/2410991116/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/2410991116/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/2410991116/leetcode/tree/master/0344-reverse-string) |
+| [0812-rotate-string](https://github.com/2410991116/leetcode/tree/master/0812-rotate-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -145,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/2410991116/leetcode/tree/master/0560-subarray-sum-equals-k) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/2410991116/leetcode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
