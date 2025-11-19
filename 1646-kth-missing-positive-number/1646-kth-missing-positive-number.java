@@ -3,7 +3,7 @@ class Solution {
         int need=1;
         int i=0;
 
-        while(k>0){
+        while (k>0){
             if (i<arr.length && arr[i]==need){
                 i++;
             }else{
