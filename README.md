@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/2410991116/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1603-running-sum-of-1d-array](https://github.com/2410991116/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/2410991116/leetcode/tree/master/1646-kth-missing-positive-number) |
+| [2048-build-array-from-permutation](https://github.com/2410991116/leetcode/tree/master/2048-build-array-from-permutation) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/2410991116/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [4107-find-missing-elements](https://github.com/2410991116/leetcode/tree/master/4107-find-missing-elements) |
 ## Hash Table
@@ -159,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/2410991116/leetcode/tree/master/0496-next-greater-element-i) |
+## Simulation
+|  |
+| ------- |
+| [2048-build-array-from-permutation](https://github.com/2410991116/leetcode/tree/master/2048-build-array-from-permutation) |
 <!---LeetCode Topics End-->
