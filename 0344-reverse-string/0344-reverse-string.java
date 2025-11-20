@@ -1,14 +1,16 @@
 class Solution {
     public void reverseString(char[] s) {
-        char[] arr=new char[s.length];
-
-        int j=0;
-        for (int i=s.length-1;i>=0;i--){
-            arr[j++]=s[i];
+        ArrayList<Character> arr=new ArrayList<>();
+        int i=s.length-1;
+        while (i>=0){
+            arr.add(s[i]);
+            i--;
         }
 
-        for (int i=0;i<j;i++){
-            s[i]=arr[i];
+        int j=0;
+        while (j<s.length){
+            s[j]=arr.get(j);
+            j++;
         }
     }
 }
