@@ -10,19 +10,39 @@
  */
 class Solution {
     public ListNode removeElements(ListNode head, int val) {
-        ListNode dumy=new ListNode(0);
-        dumy.next=head;
+        if (head==null){
+            return head;
+        }
+        ArrayList<Integer> arr=new ArrayList<>();
 
-        ListNode curr=dumy;
+        ListNode dummy=head;
+        while(dummy!=null){
+            arr.add(dummy.val);
+            dummy=dummy.next;
+        }
 
-        while (curr.next!=null){
-            if (curr.next.val==val){
-                curr.next=curr.next.next;
+        ArrayList<Integer> res=new ArrayList<>();
+
+        for (int i=0;i<arr.size();i++){
+            if (arr.get(i)==val){
+                continue;
             }else{
-                curr=curr.next;
+                res.add(arr.get(i));
             }
         }
 
-        return dumy.next;
+        if (res.size()==0){
+            return null;
+        }
+
+        ListNode result=new  ListNode(res.get(0));
+        ListNode temp=result;
+
+        for (int i=1;i<res.size();i++){
+            temp.next=new ListNode(res.get(i));
+            temp=temp.next;
+        }
+
+        return result;
     }
 }
