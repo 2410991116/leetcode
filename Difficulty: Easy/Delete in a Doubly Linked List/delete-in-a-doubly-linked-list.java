@@ -1,20 +1,7 @@
-/*
-Structure of a Doubly LinkList
-class Node {
-    int data;
-    Node next;
-    Node prev;
 
-    Node(int val) {
-        data = val;
-        next = null;
-        prev = null;
-    }
-}
-*/
 class Solution {
     public Node delPos(Node head, int x) {
-        // code here
+        
         if (head==null){
             return head;
         }
@@ -25,15 +12,15 @@ class Solution {
             return head;
         }
         
-        Node dummy=head;
-        
+        Node temp=head;
         for (int i=1;i<x;i++){
-            dummy=dummy.next;
+            temp=temp.next;
         }
         
-        dummy.prev.next=dummy.next;
-        if (dummy.next!=null){
-            dummy.next.prev=dummy.prev;
+        temp.prev.next=temp.next;
+        
+        if (temp.next!=null){
+            temp.next.prev=temp.prev;
         }
         
         return head;
