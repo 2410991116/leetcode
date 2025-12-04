@@ -13,16 +13,19 @@ class Node {
 */
 class Solution {
     public Node reverse(Node head) {
-        // code here
-        Node curr=head;
+        if (head==null || head.next==null){
+            return head;
+        }
+        
+        Node dummy=head;
         Node temp=null;
         
-        while (curr!=null){
-            temp=curr.prev;
-            curr.prev=curr.next;
-            curr.next=temp;
+        while (dummy!=null){
+            temp=dummy.prev;
+            dummy.prev=dummy.next;
+            dummy.next=temp;
             
-            curr=curr.prev;
+            dummy=dummy.prev;
         }
         
         if (temp!=null){
