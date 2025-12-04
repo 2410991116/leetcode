@@ -1,36 +1,27 @@
-/*
-class Node
-{
-    int data;
-    Node next;
-    Node prev;
-    Node(int data)
-    {
-        this.data = data;
-        next = prev = null;
-    }
-}
-*/
 
 class Solution {
     Node insertAtPos(Node head, int p, int x) {
-        // code here
-        Node newnode=new Node(x);
         
-        Node curr=head;
+        Node curr=new Node(x);
         
-        for (int i=0;i<p;i++){
-            curr=curr.next;
+        Node temp=head;
+        
+        for (int i=0;i<p && temp!=null;i++){
+            temp=temp.next;
         }
         
-        newnode.next=curr.next;
-        newnode.prev=curr;
-        
-        if (curr.next!=null){
-            curr.next.prev=newnode;
+        if (temp==null){
+            return head;
         }
         
-        curr.next=newnode;
+        curr.next=temp.next;
+        curr.prev=temp;
+        
+        if (temp.next!=null){
+            temp.next.prev=curr;
+        }
+        
+        temp.next=curr;
         
         return head;
     }
