@@ -10,7 +10,7 @@ class Solution {
                 st.pop();
             }
             
-            if (st.empty()){
+            if (st.isEmpty()){
                 nums.add(-1);
             }else{
                 nums.add(st.peek());
