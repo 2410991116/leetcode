@@ -2,6 +2,7 @@ class Solution {
     static ArrayList<Integer> nextSmallerEle(int[] arr) {
         // code here
         ArrayList<Integer> nums=new ArrayList<>();
+        
         Stack<Integer> st=new Stack<>();
         
         for (int i=arr.length-1;i>=0;i--){
