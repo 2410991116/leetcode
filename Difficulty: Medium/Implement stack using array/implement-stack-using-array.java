@@ -1,6 +1,5 @@
 class myStack {
-    
-    int arr[];
+    int[] arr;
     int top;
     int capacity;
 
@@ -31,15 +30,15 @@ class myStack {
     public void pop() {
         // Removes an element from the top of the stack
         if (!isEmpty()){
-           top--;
+            top--;
         }
     }
 
     public int peek() {
         // Returns the top element of the stack
-        if (!isEmpty()){
-            return arr[top];
+        if (isEmpty()){
+            return -1;
         }
-        return -1;
+        return arr[top];
     }
 }
