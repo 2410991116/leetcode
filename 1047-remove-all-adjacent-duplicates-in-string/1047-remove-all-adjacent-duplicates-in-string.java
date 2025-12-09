@@ -7,7 +7,7 @@ class Solution {
         for (int i=0;i<arr.length;i++){
             if (st.size()==0 || arr[i]!=st.peek()){
                 st.push(arr[i]);
-            }else{
+            }else {
                 st.pop();
             }
         }
