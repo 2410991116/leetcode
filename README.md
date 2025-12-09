@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/2410991116/leetcode/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/2410991116/leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/2410991116/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/2410991116/leetcode/tree/master/0496-next-greater-element-i) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/2410991116/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -192,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/2410991116/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/2410991116/leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
