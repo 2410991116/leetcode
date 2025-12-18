@@ -1,13 +1,19 @@
 class myQueue {
-    int f,r,capacity,size;
+    int f;
+    int r;
+    int capacity;
+    int size;
     int[] arr;
+    
+
     // Constructor
     public myQueue(int n) {
         // Define Data Structures
         arr=new int[n];
-        f=0;
-        r=-1;
         capacity=n;
+        size=0;
+        f=-1;
+        r=-1;
     }
 
     public boolean isEmpty() {
@@ -18,44 +24,49 @@ class myQueue {
     public boolean isFull() {
         // Check if queue is full
         return size==capacity;
-        
     }
 
     public void enqueue(int x) {
-        // Enqueue
-        if (!isFull()){
-            r++;
-            arr[r]=x;
-            size++;
+        if (isFull()){
+            return ;
         }
+        // Enqueue
+        if (f==-1){
+            f=r=0;
+        }else{
+            r++;
+        }
+        arr[r]=x;
+        size++;
     }
 
     public void dequeue() {
         // Dequeue
-        if (!isEmpty()){
-            f++;
-            size--;
+        if (isEmpty()){
+            return ;
         }
+        f=f+1;
+        size--;
         
-        if (size == 0) {
-            f = 0;
-            r = -1;
+        if (size==0){
+            f=-1;
+            r=-1;
         }
     }
 
     public int getFront() {
         // Get front element
-        if (!isEmpty()){
-            return arr[f];
+        if (isEmpty()){
+            return -1;
         }
-        return -1;
+        return arr[f];
     }
 
     public int getRear() {
         // Get last element
-        if (!isEmpty()){
-            return arr[r];
+        if (isEmpty()){
+            return -1;
         }
-        return -1;
+        return arr[r];
     }
 }
