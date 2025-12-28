@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/2410991116/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1603-running-sum-of-1d-array](https://github.com/2410991116/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/2410991116/leetcode/tree/master/1646-kth-missing-positive-number) |
+| [1920-build-array-from-permutation](https://github.com/2410991116/leetcode/tree/master/1920-build-array-from-permutation) |
 | [2048-build-array-from-permutation](https://github.com/2410991116/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/2410991116/leetcode/tree/master/2058-concatenation-of-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/2410991116/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1920-build-array-from-permutation](https://github.com/2410991116/leetcode/tree/master/1920-build-array-from-permutation) |
 | [2048-build-array-from-permutation](https://github.com/2410991116/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/2410991116/leetcode/tree/master/2058-concatenation-of-array) |
 ## Heap (Priority Queue)
