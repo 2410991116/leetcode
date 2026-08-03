@@ -1,18 +1,18 @@
 class Solution {
-    public boolean searchMatrix(int[][] nums, int target) {
+    public boolean searchMatrix(int[][] arr, int target) {
         int row=0;
-        int cols=nums[0].length-1;
+        int cols=arr[0].length-1;
 
-        while (row<nums.length && cols>=0){
-            if (nums[row][cols]==target){
+        while (row<arr.length && cols>=0){
+            if (arr[row][cols]==target){
                 return true;
-            }else if (nums[row][cols]<target){
+            }else if (arr[row][cols]<target){
                 row++;
             }else{
                 cols--;
             }
         }
 
-        return false;        
+        return false;
     }
 }
