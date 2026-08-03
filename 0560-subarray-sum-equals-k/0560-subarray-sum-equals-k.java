@@ -1,14 +1,14 @@
 class Solution {
     public int subarraySum(int[] nums, int k) {
         HashMap<Integer,Integer> map=new HashMap<>();
-
         map.put(0,1);
+
         int count=0;
+        int right=0;
         int sum=0;
 
-        int j=0;
-        while (j<nums.length){
-            sum+=nums[j];
+        while (right<nums.length){
+            sum+=nums[right];
             int rem=sum-k;
 
             if (map.containsKey(rem)){
@@ -16,14 +16,12 @@ class Solution {
             }
 
             if (map.containsKey(sum)){
-                int freq=map.get(sum);
-                map.put(sum,freq+1);
+                map.put(sum,map.get(sum)+1);
             }else{
                 map.put(sum,1);
             }
 
-            j++;
-                        
+            right++;
         }
 
         return count;
