@@ -1,30 +1,31 @@
 class Solution {
-    public boolean ispalin(String str){
-        int i=0;
-        int j=str.length()-1;
-        while(i<j){
-            if (str.charAt(i)!=str.charAt(j)){
+    public boolean solve(String s,int i,int j,boolean[][] dp){
+        while (i<j){
+            if (s.charAt(i)!=s.charAt(j)){
                 return false;
             }
             i++;
             j--;
         }
+
         return true;
     }
-    
+
     public String longestPalindrome(String s) {
-        String largest="";
-
+        boolean[][] dp=new boolean[s.length()][s.length()];
+        int max=0;
+        int start=0;
         for (int i=0;i<s.length();i++){
-            for (int j=i+1;j<=s.length();j++){
-                String sub=s.substring(i,j);
-
-                if (ispalin(sub)  &&  sub.length()>largest.length()){
-                largest=sub;
-            }
+            for (int j=i;j<s.length();j++){
+                if (solve(s,i,j,dp)){
+                    if ((j-i+1)>max){
+                        max=j-i+1;
+                        start=i;
+                    }
+                }
             }
         }
 
-        return largest;
+        return s.substring(start,start+max);
     }
 }
