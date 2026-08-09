@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/2410991116/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0812-rotate-string](https://github.com/2410991116/leetcode/tree/master/0812-rotate-string) |
 | [0859-buddy-strings](https://github.com/2410991116/leetcode/tree/master/0859-buddy-strings) |
+| [0880-decoded-string-at-index](https://github.com/2410991116/leetcode/tree/master/0880-decoded-string-at-index) |
 | [0899-orderly-queue](https://github.com/2410991116/leetcode/tree/master/0899-orderly-queue) |
 | [0944-delete-columns-to-make-sorted](https://github.com/2410991116/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/2410991116/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/2410991116/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/2410991116/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/2410991116/leetcode/tree/master/0496-next-greater-element-i) |
+| [0880-decoded-string-at-index](https://github.com/2410991116/leetcode/tree/master/0880-decoded-string-at-index) |
 | [0901-online-stock-span](https://github.com/2410991116/leetcode/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/2410991116/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Trie
