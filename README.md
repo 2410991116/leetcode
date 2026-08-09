@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/2410991116/leetcode/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/2410991116/leetcode/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/2410991116/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/2410991116/leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/2410991116/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/2410991116/leetcode/tree/master/0881-boats-to-save-people) |
 | [0908-middle-of-the-linked-list](https://github.com/2410991116/leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/2410991116/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/2410991116/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0812-rotate-string](https://github.com/2410991116/leetcode/tree/master/0812-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/2410991116/leetcode/tree/master/0844-backspace-string-compare) |
 | [0859-buddy-strings](https://github.com/2410991116/leetcode/tree/master/0859-buddy-strings) |
 | [0880-decoded-string-at-index](https://github.com/2410991116/leetcode/tree/master/0880-decoded-string-at-index) |
 | [0899-orderly-queue](https://github.com/2410991116/leetcode/tree/master/0899-orderly-queue) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/2410991116/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/2410991116/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/2410991116/leetcode/tree/master/0496-next-greater-element-i) |
+| [0844-backspace-string-compare](https://github.com/2410991116/leetcode/tree/master/0844-backspace-string-compare) |
 | [0880-decoded-string-at-index](https://github.com/2410991116/leetcode/tree/master/0880-decoded-string-at-index) |
 | [0901-online-stock-span](https://github.com/2410991116/leetcode/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/2410991116/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -474,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/2410991116/leetcode/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/2410991116/leetcode/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/2410991116/leetcode/tree/master/0258-add-digits) |
+| [0844-backspace-string-compare](https://github.com/2410991116/leetcode/tree/master/0844-backspace-string-compare) |
 | [1920-build-array-from-permutation](https://github.com/2410991116/leetcode/tree/master/1920-build-array-from-permutation) |
 | [2048-build-array-from-permutation](https://github.com/2410991116/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/2410991116/leetcode/tree/master/2058-concatenation-of-array) |
