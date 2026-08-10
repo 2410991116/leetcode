@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-determine-if-string-halves-are-alike](https://github.com/2410991116/leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/2410991116/leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2272-substring-with-largest-variance](https://github.com/2410991116/leetcode/tree/master/2272-substring-with-largest-variance) |
+| [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/2410991116/leetcode/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/2410991116/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/2410991116/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0812-rotate-string](https://github.com/2410991116/leetcode/tree/master/0812-rotate-string) |
+| [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/2410991116/leetcode/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -706,4 +708,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2272-substring-with-largest-variance](https://github.com/2410991116/leetcode/tree/master/2272-substring-with-largest-variance) |
+## Rolling Hash
+|  |
+| ------- |
+| [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/2410991116/leetcode/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
+## Hash Function
+|  |
+| ------- |
+| [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/2410991116/leetcode/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
 <!---LeetCode Topics End-->
