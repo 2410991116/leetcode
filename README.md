@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/2410991116/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2109-adding-spaces-to-a-string](https://github.com/2410991116/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/2410991116/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2337-move-pieces-to-obtain-a-string](https://github.com/2410991116/leetcode/tree/master/2337-move-pieces-to-obtain-a-string) |
 ## String
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/2410991116/leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2109-adding-spaces-to-a-string](https://github.com/2410991116/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2272-substring-with-largest-variance](https://github.com/2410991116/leetcode/tree/master/2272-substring-with-largest-variance) |
+| [2337-move-pieces-to-obtain-a-string](https://github.com/2410991116/leetcode/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/2410991116/leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/2410991116/leetcode/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
 ## Dynamic Programming
