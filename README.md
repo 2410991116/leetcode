@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/2410991116/leetcode/tree/master/0342-power-of-four) |
 | [0899-orderly-queue](https://github.com/2410991116/leetcode/tree/master/0899-orderly-queue) |
 | [1248-count-number-of-nice-subarrays](https://github.com/2410991116/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [2999-count-the-number-of-powerful-integers](https://github.com/2410991116/leetcode/tree/master/2999-count-the-number-of-powerful-integers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/2410991116/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/2410991116/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/2410991116/leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/2410991116/leetcode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
+| [2999-count-the-number-of-powerful-integers](https://github.com/2410991116/leetcode/tree/master/2999-count-the-number-of-powerful-integers) |
 | [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/2410991116/leetcode/tree/master/3029-minimum-time-to-revert-word-to-initial-state-i) |
 ## Dynamic Programming
 |  |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/2410991116/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1143-longest-common-subsequence](https://github.com/2410991116/leetcode/tree/master/1143-longest-common-subsequence) |
 | [2272-substring-with-largest-variance](https://github.com/2410991116/leetcode/tree/master/2272-substring-with-largest-variance) |
+| [2999-count-the-number-of-powerful-integers](https://github.com/2410991116/leetcode/tree/master/2999-count-the-number-of-powerful-integers) |
 ## Array
 |  |
 | ------- |
