@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/2410991116/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/2410991116/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/2410991116/leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/2410991116/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/2410991116/leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2109-adding-spaces-to-a-string](https://github.com/2410991116/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2272-substring-with-largest-variance](https://github.com/2410991116/leetcode/tree/master/2272-substring-with-largest-variance) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/2410991116/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/2410991116/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1657-determine-if-two-strings-are-close](https://github.com/2410991116/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/2410991116/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2272-substring-with-largest-variance](https://github.com/2410991116/leetcode/tree/master/2272-substring-with-largest-variance) |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/2410991116/leetcode/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/2410991116/leetcode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/2410991116/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1657-determine-if-two-strings-are-close](https://github.com/2410991116/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/2410991116/leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/2410991116/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/2410991116/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/2410991116/leetcode/tree/master/2981-find-longest-special-substring-that-occurs-thrice-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/2410991116/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
