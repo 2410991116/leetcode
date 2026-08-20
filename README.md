@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/2410991116/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1446-consecutive-characters](https://github.com/2410991116/leetcode/tree/master/1446-consecutive-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/2410991116/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/2410991116/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1657-determine-if-two-strings-are-close](https://github.com/2410991116/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/2410991116/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/2410991116/leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0880-decoded-string-at-index](https://github.com/2410991116/leetcode/tree/master/0880-decoded-string-at-index) |
 | [0901-online-stock-span](https://github.com/2410991116/leetcode/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/2410991116/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/2410991116/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/2410991116/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2434-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/2410991116/leetcode/tree/master/2434-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Trie
@@ -719,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/2410991116/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/2410991116/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Lexicographically Minimal String Rotation
 |  |
 | ------- |
