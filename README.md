@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/2410991116/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/2410991116/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/2410991116/leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/2410991116/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/2410991116/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/2410991116/leetcode/tree/master/0881-boats-to-save-people) |
 | [0908-middle-of-the-linked-list](https://github.com/2410991116/leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/2410991116/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2109-adding-spaces-to-a-string](https://github.com/2410991116/leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/2410991116/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2337-move-pieces-to-obtain-a-string](https://github.com/2410991116/leetcode/tree/master/2337-move-pieces-to-obtain-a-string) |
