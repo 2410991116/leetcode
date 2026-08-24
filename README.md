@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/2410991116/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/2410991116/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/2410991116/leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/2410991116/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/2410991116/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Math
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/2410991116/leetcode/tree/master/0342-power-of-four) |
 | [0899-orderly-queue](https://github.com/2410991116/leetcode/tree/master/0899-orderly-queue) |
 | [1248-count-number-of-nice-subarrays](https://github.com/2410991116/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/2410991116/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2999-count-the-number-of-powerful-integers](https://github.com/2410991116/leetcode/tree/master/2999-count-the-number-of-powerful-integers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/2410991116/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
