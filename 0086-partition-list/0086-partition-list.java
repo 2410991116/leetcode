@@ -10,10 +10,10 @@ class Solution {
 
         while (temp!=null){
             if (temp.val < x){
-                small.next=new ListNode(temp.val);
+                small.next=temp;
                 small=small.next;
             }else{
-                large.next=new ListNode(temp.val);
+                large.next=temp;
                 large=large.next;
             }
             temp=temp.next;
