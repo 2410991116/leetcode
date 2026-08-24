@@ -3,21 +3,20 @@ class Solution {
         if (head==null){
             return head;
         }
-        
-        ListNode answer=new ListNode(head.val);
-        ListNode ans=answer;
 
-        ListNode temp=head.next;
-        int prev=head.val;
-        while (temp!=null){
-            if (temp.val!=prev){
-                ans.next=new ListNode(temp.val);
-                prev=temp.val;
-                ans=ans.next;
+        ListNode i=head;
+        ListNode j=head;
+
+        while (j!=null){
+            if (i.val==j.val){
+                j=j.next;
+            }else{
+                i.next=j;
+                i=j;
             }
-            temp=temp.next;
         }
 
-        return answer;
+        i.next=j;
+        return head;
     }
 }
