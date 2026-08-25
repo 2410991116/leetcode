@@ -1,9 +1,9 @@
 class Solution {
     public boolean isSymmetric(TreeNode root) {
-        return check(root.left,root.right);
+        return answer(root.left,root.right);
     }
 
-    public boolean check(TreeNode p,TreeNode q){
+    public boolean answer(TreeNode p,TreeNode q){
         if (p==null && q==null){
             return true;
         }
@@ -12,10 +12,10 @@ class Solution {
             return false;
         }
 
-        if (p.val != q.val){
+        if (p.val!=q.val){
             return false;
         }
 
-        return check(p.left,q.right) && check(p.right,q.left);
+        return answer(p.left,q.right) && answer(p.right,q.left);
     }
 }
