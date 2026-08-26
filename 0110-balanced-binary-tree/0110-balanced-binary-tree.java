@@ -1,24 +1,24 @@
 class Solution {
     public boolean isBalanced(TreeNode root) {
-        return check(root)!=-1;
+        if (root==null){
+            return true;
+        }
+
+        int left=level(root.left);
+        int right=level(root.right);
+
+        if (Math.abs(left-right)>1){
+            return false;
+        }
+
+        return isBalanced(root.left) && isBalanced(root.right);
     }
 
-    public int check(TreeNode root){
+    public int level(TreeNode root){
         if (root==null){
-            return 1;
+            return 0;
         }
 
-        int ls=check(root.left);
-        int rs=check(root.right);
-
-        if (ls==-1 || rs==-1){
-            return -1;
-        }
-
-        if (Math.abs(ls-rs)>1){
-            return -1;
-        }
-
-        return 1+Math.max(ls,rs);        
+        return 1 + Math.max(level(root.left),level(root.right));
     }
 }
