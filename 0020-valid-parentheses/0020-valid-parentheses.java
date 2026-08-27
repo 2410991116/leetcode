@@ -1,16 +1,17 @@
 class Solution {
     public boolean isValid(String s) {
-        Stack<Character> str=new Stack<>();
+        Stack<Character> st=new Stack<>();
+        for (int i=0;i<s.length();i++){
+            char ch=s.charAt(i);
 
-        for (char ch : s.toCharArray()){
             if (ch=='[' || ch=='{' || ch=='('){
-                str.push(ch);
+                st.push(ch);
             }else{
-                if (str.isEmpty()){
+                if (st.isEmpty()){
                     return false;
                 }
 
-                int top=str.pop();
+                char top=st.pop();
 
                 if ((ch==']' && top!='[') ||
                     (ch=='}' && top!='{') ||
@@ -19,7 +20,7 @@ class Solution {
                     }
             }
         }
-        return str.isEmpty();
 
+        return st.isEmpty();
     }
 }
