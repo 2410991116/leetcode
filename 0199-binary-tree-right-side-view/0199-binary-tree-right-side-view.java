@@ -1,36 +1,37 @@
 class Solution {
     public List<Integer> rightSideView(TreeNode root) {
-        List<Integer> ans=new ArrayList<>();
+        List<Integer> arr=new ArrayList<>();
         if (root==null){
-            return ans;
+            return arr;
         }
 
-        List<List<Integer>> arr=new ArrayList<>();
-        Queue<TreeNode> q=new LinkedList<>();
-        q.add(root);
-        while (!q.isEmpty()){
-            int size=q.size();
-            List<Integer> l=new ArrayList<>();
+        TreeMap<Integer,Integer> map=new TreeMap<>();
+        Queue<TreeNode> qnode=new LinkedList<>();
+        Queue<Integer> qpos=new LinkedList<>();
 
-            for (int i=0;i<size;i++){
-                TreeNode curr=q.remove();
-                l.add(curr.val);
+        qnode.add(root);
+        qpos.add(0);
+        while (!qnode.isEmpty()){
+            TreeNode curr=qnode.remove();
+            int pos=qpos.remove();
 
-                if (curr.left!=null){
-                    q.add(curr.left);
-                }
-                if (curr.right!=null){
-                    q.add(curr.right);
-                }
+            map.put(pos,curr.val);
+
+            if (curr.left!=null){
+                qnode.add(curr.left);
+                qpos.add(pos+1);
             }
 
-            arr.add(l);
+            if (curr.right!=null){
+                qnode.add(curr.right);
+                qpos.add(pos+1);
+            }
         }
 
-        for (List<Integer> list:arr){
-            ans.add(list.get(list.size()-1));
+        for (int val:map.values()){
+            arr.add(val);
         }
 
-        return ans;
+        return arr;
     }
 }
